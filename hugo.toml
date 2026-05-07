@@ -35,9 +35,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "SX4D8449TR"
+  algolia_indexName = "degang-blog"
+  algolia_apiKey = "71c58b12e2d35a6503b62ca98d83d429"
 
   # Sidebar settings
   sidebar_about_description = "Degang Wang (汪德刚), working at the intersection of RWD, Epidemiology, Biostatistics, and HEOR."
