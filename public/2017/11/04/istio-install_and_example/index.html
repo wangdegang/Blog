@@ -52,7 +52,7 @@
     <meta name="keyword"  content="">
     <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>Istio及Bookinfo示例程序安装试用笔记 | 汪德刚的博客</title>
+    <title>Istio及Bookinfo示例程序安装试用笔记 | Degang Blog</title>
 
     <link rel="canonical" href="/2017/11/04/istio-install_and_example/">
 
@@ -76,7 +76,7 @@
     
     
     
-    
+    <link rel="stylesheet" href="http://localhost:1313/css/custom.css">
 
     
     <script src="/js/jquery.min.js"></script>
@@ -138,9 +138,9 @@
                     
 
 		    
-                        <li><a href="/archive//">ARCHIVE</a></li>
-                    
                         <li><a href="/notes//">NOTES</a></li>
+                    
+                        <li><a href="/archive//">ARCHIVE</a></li>
                     
                         <li><a href="/about//">ABOUT</a></li>
                     
@@ -615,6 +615,40 @@ kubectl apply -f istio-0.2.10/install/kubernetes/addons/grafana.yaml
 
                 
 
+<div id="giscus-placeholder"></div>
+
+<script>
+
+(function() {
+    function loadGiscus() {
+        var currentTheme = document.documentElement.getAttribute('data-theme') || 'light';
+        var placeholder = document.getElementById('giscus-placeholder');
+        if (!placeholder) return;
+
+        var giscusScript = document.createElement('script');
+        giscusScript.src = 'https://giscus.app/client.js';
+        giscusScript.setAttribute('data-repo', 'your GitHub repo');
+        giscusScript.setAttribute('data-repo-id', 'your repo id');
+        giscusScript.setAttribute('data-category', 'your category');
+        giscusScript.setAttribute('data-category-id', 'your category id');
+        giscusScript.setAttribute('data-mapping', 'pathname');
+        giscusScript.setAttribute('data-reactions-enabled', '1');
+        giscusScript.setAttribute('data-emit-metadata', '0');
+        giscusScript.setAttribute('data-theme', currentTheme);
+        giscusScript.setAttribute('data-lang', 'en');
+        giscusScript.setAttribute('crossorigin', 'anonymous');
+        giscusScript.async = true;
+
+        
+        placeholder.parentNode.replaceChild(giscusScript, placeholder);
+    }
+
+    
+    loadGiscus();
+})();
+</script>
+
+
 
 
 
@@ -750,7 +784,7 @@ kubectl apply -f istio-0.2.10/install/kubernetes/addons/grafana.yaml
 		            
                     
                     <li>
-                        <a target="_blank" href="/your%20wechat%20qr%20code%20image">
+                        <a target="_blank" href="/img/wechat_qrcode.jpg">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-weixin fa-stack-1x fa-inverse"></i>
@@ -760,7 +794,7 @@ kubectl apply -f istio-0.2.10/install/kubernetes/addons/grafana.yaml
 		            
                     
                     <li>
-                        <a target="_blank" href="https://github.com/yourgithub">
+                        <a target="_blank" href="https://github.com/wangdegang">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-github fa-stack-1x fa-inverse"></i>
@@ -772,7 +806,7 @@ kubectl apply -f istio-0.2.10/install/kubernetes/addons/grafana.yaml
                     
                     
                     <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/yourlinkedinid">
+                        <a target="_blank" href="https://www.linkedin.com/in/degang-wang/">
                             <span class="fa-stack fa-lg">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>

@@ -1,4 +1,4 @@
-baseurl = "https://zhaohuabing.com"
+baseurl = "https://wangdegang.netlify.app"
 title = "Degang Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
@@ -20,13 +20,11 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-grass.jpg"
-  SEOTitle = "汪德刚的博客"
-  # description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  # keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  SEOTitle = "Degang Blog"
   slogan = "It’s never too late to start"
   upstreamAttribution = false
 
-  image_404 = "img/404-bg.jpg"
+  image_404 = "img/404images.png"
   title_404 = "Page not found :("
   omit_categories = false
 
@@ -42,7 +40,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = ""
 
   # Sidebar settings
-  sidebar_about_description = "Degang Wang (汪德刚), RWD and Analytics Researcher, AI Enthusiast, and Life Adventurer"
+  sidebar_about_description = "Degang Wang (汪德刚), working at the intersection of RWD, Epidemiology, Biostatistics, and HEOR."
   sidebar_avatar = "img/degang.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
@@ -80,20 +78,32 @@ home = ["HTML", "RSS", "Algolia"]
   #last_posts_count = 5
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
-  #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+  custom_css = ["css/custom.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
+  [params.giscus]
+  data_repo="your GitHub repo"
+  data_repo_id="your repo id"
+  data_category="your category"
+  data_category_id="your category id"
+  data_mapping="pathname"
+  data_reactions_enabled="1"
+  data_emit_metadata="0"
+  data_theme="light"
+  data_lang="en"
+  crossorigin="anonymous"
+  
   [params.social]
   rss            = true 
   email          = "dgwang7@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+  linkedin       = "https://www.linkedin.com/in/degang-wang/"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
   #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
-  wechat         = "your wechat qr code image"
+  github         = "https://github.com/wangdegang"
+  wechat         = "img/wechat_qrcode.jpg"
   #medium        = "full profile url in medium"
   #slack         = "full workspace url in slack"
   #pinterest     = "full profile url in pinterest"
@@ -110,23 +120,17 @@ home = ["HTML", "RSS", "Algolia"]
 
   [[params.bookmark_link]]
   title =  "FDA"
-  href =  "https://martinfowler.com"
+  href =  "https://www.fda.gov/science-research/science-and-research-special-topics/real-world-evidence"
   [[params.bookmark_link]]
   title = "ISPOR"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+  href =  "https://www.ispor.org/home"
   
-  [[params.additional_menus]]
-  title =  "ARCHIVE"
-  href =  "/archive/"
   [[params.additional_menus]]
   title =  "NOTES"
   href =  "/notes/"
+  [[params.additional_menus]]
+  title =  "ARCHIVE"
+  href =  "/archive/"
   [[params.additional_menus]]
   title =  "ABOUT"
   href =  "/about/"

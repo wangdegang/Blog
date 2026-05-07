@@ -18,7 +18,7 @@
             </a>
             {{ end }}
             {{ with .Site.Params.sidebar_about_description }}
-                <p>{{ . | safeHTML }}</p>
+                <p><a href="{{ "/about" | relLangURL }}" class="sidebar-about-link">{{ . | safeHTML }}</a></p>
             {{ end }}
            <!-- SNS Link -->
            <ul class="list-inline">
