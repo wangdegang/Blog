@@ -82,17 +82,17 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.giscus]
-  data_repo="your GitHub repo"
-  data_repo_id="your repo id"
-  data_category="your category"
-  data_category_id="your category id"
+  data_repo="wangdegang/Blog"
+  data_repo_id="R_kgDOSWNKdg"
+  data_category="yAnnouncements"
+  data_category_id="yDIC_kwDOSWNKds4C8fD_"
   data_mapping="pathname"
   data_reactions_enabled="1"
   data_emit_metadata="0"
   data_theme="light"
   data_lang="en"
   crossorigin="anonymous"
-  
+
   [params.social]
   rss            = true 
   email          = "dgwang7@gmail.com"
