@@ -6,3 +6,17 @@
 .sidebar-about-link:hover {
   color: #0085a1;
 }
+
+/* Reduce Previous/Next Post pager to 1/4 size */
+.pager li > a,
+.pager li > span {
+  font-size: 10px !important;
+  padding: 4px 6px !important;
+}
+@media only screen and (min-width: 768px) {
+  .pager li > a,
+  .pager li > span {
+    font-size: 11px !important;
+    padding: 4px 6px !important;
+  }
+}

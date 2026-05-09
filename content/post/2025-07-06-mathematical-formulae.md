@@ -5,13 +5,13 @@ description: "Cleanwhite theme now has built-in support for authoring mathematic
 excerpt: "The theme uses Hugo's embedded instance of the KaTeX display engine to render mathematical markup to HTML at build time."
 date:    2025-07-06
 author: "Andreas Deininger"
-image: "/img/2018-05-23-service_2_service_auth/background.jpg"
+image: "/img/header-tech.jpeg"
 publishDate: 2025-07-06
 tags:
     - Math
     - KaTeX 
 URL: "/2025/07/06/mathematical-formulae/"
-categories: [ tips ]    
+categories: [ Tech ]    
 ---
 
 ## Authoring mathematical and chemical equations

@@ -2,6 +2,7 @@ baseurl = "https://wangdegang.netlify.app"
 title = "Degang Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
+timeZone = "America/Chicago"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
 
@@ -24,7 +25,7 @@ home = ["HTML", "RSS", "Algolia"]
   slogan = "It’s never too late to start"
   upstreamAttribution = false
 
-  image_404 = "img/404images.png"
+  image_404 = "img/404-bg.png"
   title_404 = "Page not found :("
   omit_categories = false
 
@@ -40,11 +41,11 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "71c58b12e2d35a6503b62ca98d83d429"
 
   # Sidebar settings
-  sidebar_about_description = "Degang Wang (汪德刚), working at the intersection of RWD, Epidemiology, Biostatistics, and HEOR."
+  sidebar_about_description = "Degang Wang (汪德刚), working at the intersection of real-world data (RWD), epidemiology, biostatistics, and modern data platforms."
   sidebar_avatar = "img/degang.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
-  featured_condition_size = 1 
+  featured_condition_size = 0
 
   # Baidu Analytics
   ba_track_id = ""
@@ -84,8 +85,8 @@ home = ["HTML", "RSS", "Algolia"]
   [params.giscus]
   data_repo="wangdegang/Blog"
   data_repo_id="R_kgDOSWNKdg"
-  data_category="yAnnouncements"
-  data_category_id="yDIC_kwDOSWNKds4C8fD_"
+  data_category="Announcements"
+  data_category_id="DIC_kwDOSWNKds4C8fD_"
   data_mapping="pathname"
   data_reactions_enabled="1"
   data_emit_metadata="0"
@@ -124,10 +125,10 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.bookmark_link]]
   title = "ISPOR"
   href =  "https://www.ispor.org/home"
+  [[params.bookmark_link]]
+  title =  "Google Scholar"
+  href =  "https://scholar.google.com/scholar_labs/search?hl=en"
   
-  [[params.additional_menus]]
-  title =  "NOTES"
-  href =  "/notes/"
   [[params.additional_menus]]
   title =  "ARCHIVE"
   href =  "/archive/"

@@ -6,27 +6,34 @@
     <description>Recent content in Categories on Degang Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tips</title>
-      <link>http://localhost:1313/categories/tips/</link>
-      <pubDate>Sun, 06 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tips/</guid>
+      <title>Life</title>
+      <link>http://localhost:1313/categories/life/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Methods</title>
+      <link>http://localhost:1313/categories/methods/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/methods/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RWD</title>
+      <link>http://localhost:1313/categories/rwd/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/categories/rwd/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
       <link>http://localhost:1313/categories/tech/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
       <guid>http://localhost:1313/categories/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
-      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
       <description></description>
     </item>
   </channel>
