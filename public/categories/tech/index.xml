@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech on Degang Blog</title>
+    <title>Tech on Degang Wang</title>
     <link>http://localhost:1313/categories/tech/</link>
-    <description>Recent content in Tech on Degang Blog</description>
+    <description>Recent content in Tech on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Databricks to Your Analytics Tool: A RWD Workflow</title>
+      <link>http://localhost:1313/2026/05/10/databricks-rwd-workflow/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2026/05/10/databricks-rwd-workflow/</guid>
+      <description>&lt;h2 id=&#34;why-not-just-load-everything-locally&#34;&gt;Why Not Just Load Everything Locally?&lt;/h2&gt;&#xA;&lt;p&gt;Real-world data (RWD) — claims, EHR, registries — is massive. A single claims database can have billions of rows across diagnosis, procedure, and pharmacy tables. You cannot &lt;code&gt;pd.read_csv()&lt;/code&gt; your way through it.&lt;/p&gt;&#xA;&lt;p&gt;The workflow that works:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manipulate data in Databricks&lt;/strong&gt; — filter, join, aggregate using SQL on distributed compute&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create an analytic-ready table&lt;/strong&gt; — a focused cohort with only the columns and rows you need&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bring the result to your analytics tool&lt;/strong&gt; — Python, R, or SAS for statistical analysis and visualization&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This post walks through that workflow using a diabetes cohort as an example. While we use Databricks here, the same pattern applies to any big data computing engine — Snowflake, Impala, AWS Athena, or Google BigQuery. The principle is the same: reduce data remotely, then bring the result to your analytics tool.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Databricks Connect: Run Spark Code from Your Local IDE</title>
       <link>http://localhost:1313/2026/05/08/databricks-connect/</link>

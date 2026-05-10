@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Travel on Degang Blog</title>
+    <title>Travel on Degang Wang</title>
     <link>http://localhost:1313/tags/travel/</link>
-    <description>Recent content in Travel on Degang Blog</description>
+    <description>Recent content in Travel on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 00:00:00 -0500</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/2026/05/08/life-coming-soon/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
       <guid>http://localhost:1313/2026/05/08/life-coming-soon/</guid>
-      <description>&lt;p&gt;Content coming soon. Stay tuned!&lt;/p&gt;</description>
+      <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

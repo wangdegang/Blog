@@ -4,10 +4,10 @@ title:      "Mass General Brigham EHR Data: A Real-World Data Resource for Resea
 subtitle:   ""
 excerpt:    "Overview of MGB's research data offerings for real-world evidence studies"
 author:     "Degang Wang"
-date:       2026-05-08
+date:       2026-05-10
 description: "An overview of Mass General Brigham's EHR-based research data, including its strengths, limitations, and use cases for real-world evidence generation."
 image: "/img/header-data.jpeg"
-publishDate: 2026-05-08
+publishDate: 2026-05-10
 tags:
     - RWD
     - EHR

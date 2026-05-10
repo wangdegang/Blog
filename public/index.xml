@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Degang Blog</title>
+    <title>Degang Wang</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Degang Blog</description>
+    <description>Recent content on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Databricks to Your Analytics Tool: A RWD Workflow</title>
+      <link>http://localhost:1313/2026/05/10/databricks-rwd-workflow/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2026/05/10/databricks-rwd-workflow/</guid>
+      <description>&lt;h2 id=&#34;why-not-just-load-everything-locally&#34;&gt;Why Not Just Load Everything Locally?&lt;/h2&gt;&#xA;&lt;p&gt;Real-world data (RWD) — claims, EHR, registries — is massive. A single claims database can have billions of rows across diagnosis, procedure, and pharmacy tables. You cannot &lt;code&gt;pd.read_csv()&lt;/code&gt; your way through it.&lt;/p&gt;&#xA;&lt;p&gt;The workflow that works:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manipulate data in Databricks&lt;/strong&gt; — filter, join, aggregate using SQL on distributed compute&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Create an analytic-ready table&lt;/strong&gt; — a focused cohort with only the columns and rows you need&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bring the result to your analytics tool&lt;/strong&gt; — Python, R, or SAS for statistical analysis and visualization&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;This post walks through that workflow using a diabetes cohort as an example. While we use Databricks here, the same pattern applies to any big data computing engine — Snowflake, Impala, AWS Athena, or Google BigQuery. The principle is the same: reduce data remotely, then bring the result to your analytics tool.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mass General Brigham EHR Data: A Real-World Data Resource for Research</title>
+      <link>http://localhost:1313/2026/05/08/mgb-ehr-data/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2026/05/08/mgb-ehr-data/</guid>
+      <description>&lt;h2 id=&#34;what-is-mass-general-brigham&#34;&gt;What Is Mass General Brigham?&lt;/h2&gt;&#xA;&lt;p&gt;Mass General Brigham (MGB), formerly Partners HealthCare, is one of the largest academic health systems in the United States. It includes Massachusetts General Hospital, Brigham and Women&amp;rsquo;s Hospital, and several other hospitals and community health centers across New England. The system serves millions of patients and generates rich longitudinal electronic health record (EHR) data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reproducibility in Real-World Evidence: Lessons from the REPEAT Initiative</title>
+      <link>http://localhost:1313/2026/05/08/rwe-reproducibility/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/2026/05/08/rwe-reproducibility/</guid>
+      <description>&lt;h2 id=&#34;the-paper&#34;&gt;The Paper&lt;/h2&gt;&#xA;&lt;p&gt;Wang SV, Kattinakere Sreedhara S, Schneeweiss S, &amp;amp; REPEAT Initiative. &lt;em&gt;Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions.&lt;/em&gt; Nature Communications. 2022;13:5126. &lt;a href=&#34;https://doi.org/10.1038/s41467-022-32310-3&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;DOI: 10.1038/s41467-022-32310-3&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Databricks Connect: Run Spark Code from Your Local IDE</title>
       <link>http://localhost:1313/2026/05/08/databricks-connect/</link>
@@ -20,21 +41,7 @@
       <link>http://localhost:1313/2026/05/08/life-coming-soon/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
       <guid>http://localhost:1313/2026/05/08/life-coming-soon/</guid>
-      <description>&lt;p&gt;Content coming soon. Stay tuned!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mass General Brigham EHR Data: A Real-World Data Resource for Research</title>
-      <link>http://localhost:1313/2026/05/08/mgb-ehr-data/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/2026/05/08/mgb-ehr-data/</guid>
-      <description>&lt;h2 id=&#34;what-is-mass-general-brigham&#34;&gt;What Is Mass General Brigham?&lt;/h2&gt;&#xA;&lt;p&gt;Mass General Brigham (MGB), formerly Partners HealthCare, is one of the largest academic health systems in the United States. It includes Massachusetts General Hospital, Brigham and Women&amp;rsquo;s Hospital, and several other hospitals and community health centers across New England. The system serves millions of patients and generates rich longitudinal electronic health record (EHR) data.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reproducibility in Real-World Evidence: Lessons from the REPEAT Initiative</title>
-      <link>http://localhost:1313/2026/05/08/rwe-reproducibility/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/2026/05/08/rwe-reproducibility/</guid>
-      <description>&lt;h2 id=&#34;the-paper&#34;&gt;The Paper&lt;/h2&gt;&#xA;&lt;p&gt;Wang SV, Kattinakere Sreedhara S, Schneeweiss S, &amp;amp; REPEAT Initiative. &lt;em&gt;Reproducibility of real-world evidence studies using clinical practice data to inform regulatory and coverage decisions.&lt;/em&gt; Nature Communications. 2022;13:5126. &lt;a href=&#34;https://doi.org/10.1038/s41467-022-32310-3&#34;&gt;DOI: 10.1038/s41467-022-32310-3&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Authoring mathematical formulae</title>
@@ -48,7 +55,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Degang Wang&lt;/em&gt;&lt;/strong&gt; is a real-world data (RWD) and analytics researcher with over 17 years of experience transforming data into decision-grade evidence. His work sits at the intersection of epidemiology, statistical methodology, and modern data platforms, with a focus on turning complex real-world data into actionable insights.&lt;/p&gt;&#xA;&lt;p&gt;His expertise spans RWD source evaluation, study design and execution, and the development of scalable, cloud-native analytics infrastructure. He is particularly interested in how rigorous methodology and advanced analytics can be combined to generate credible evidence that informs clinical and business decisions.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Degang Wang&lt;/em&gt;&lt;/strong&gt; is a real-world data (RWD) and analytics practitioner who combines epidemiology, statistical methodology, and modern data platforms to generate credible evidence for clinical and business decisions. His experience centers on RWD study execution, data source evaluation, and the development of scalable, cloud-native analytics infrastructure.&lt;/p&gt;&#xA;&lt;p&gt;Degang works in HEOR Epidemiology and Real-World Evidence at &lt;a href=&#34;https://www.regeneron.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Regeneron&lt;/a&gt;, with prior experience at &lt;a href=&#34;https://www.houston.hsrd.research.va.gov/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Baylor College of Medicine&lt;/a&gt;, &lt;a href=&#34;https://www.merative.com/truven&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Truven Health Analytics&lt;/a&gt; (now part of Merative), &lt;a href=&#34;https://www.amgen.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Amgen&lt;/a&gt;, and &lt;a href=&#34;https://www.abbvie.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Allergan&lt;/a&gt; (now part of AbbVie), spanning academic, consulting, and industry settings.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

@@ -213,18 +213,21 @@ table {
   border-spacing: 0;
   border-collapse: collapse;
   margin: 1.5em 0;
+  background: transparent;
 }
 
 td {
   padding: 0.5em 0.75em;
   border: solid 1px #4d4d4d;
   line-height: 1.5;
+  background: transparent;
 }
 
 th {
   padding: 0.5em 0.75em;
   border: solid 1px #4d4d4d;
   line-height: 1.5;
+  background: transparent;
 }
 
 /* Images */

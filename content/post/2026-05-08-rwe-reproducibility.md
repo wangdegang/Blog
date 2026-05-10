@@ -4,16 +4,16 @@ title:      "Reproducibility in Real-World Evidence: Lessons from the REPEAT Ini
 subtitle:   ""
 excerpt:    "A practitioner's take on the landmark study evaluating reproducibility of 150 RWE studies"
 author:     "Degang Wang"
-date:       2026-05-08
+date:       2026-05-09
 description: "Reflections on Wang et al. 2022 Nature Communications paper on RWE reproducibility, and what it means for analysts working with claims and EHR data every day."
 image: "/img/header-methods.jpeg"
-publishDate: 2026-05-08
+publishDate: 2026-05-10
 tags:
     - RWE
     - Reproducibility
     - Epidemiology
 
-categories: [ Methods ]
+categories: [ Methods, RWD ]
 URL: "/2026/05/08/rwe-reproducibility/"
 ---
 
