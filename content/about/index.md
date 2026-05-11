@@ -12,4 +12,4 @@ He holds a PhD in Molecular Genetics and an MS in Biostatistics from [The Univer
 
 Based in Houston, Texas, Degang enjoys road trips with his family, often exploring new places beyond the data.
 
-Feel free to connect with Degang on GitHub, LinkedIn, or WeChat, share your thoughts on the blog, or reach out via [email](mailto:dgwang7@gmail.com).
+Feel free to connect with Degang on GitHub, LinkedIn, or WeChat, share your thoughts here, or reach out via [email](mailto:dgwang7@gmail.com).

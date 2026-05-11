@@ -21,7 +21,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-grass.jpg"
-  SEOTitle = "Degang Blog"
+  SEOTitle = "Degang Wang"
   slogan = "Every blade of grass has its own dew"
   upstreamAttribution = false
 
