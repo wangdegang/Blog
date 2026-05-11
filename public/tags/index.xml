@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Degang Wang</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://degangwang.com/tags/</link>
     <description>Recent content in Tags on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://degangwang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Databricks</title>
-      <link>http://localhost:1313/tags/databricks/</link>
+      <link>https://degangwang.com/tags/databricks/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/databricks/</guid>
+      <guid>https://degangwang.com/tags/databricks/</guid>
       <description></description>
     </item>
     <item>
       <title>EHR</title>
-      <link>http://localhost:1313/tags/ehr/</link>
+      <link>https://degangwang.com/tags/ehr/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/ehr/</guid>
+      <guid>https://degangwang.com/tags/ehr/</guid>
       <description></description>
     </item>
     <item>
       <title>PySpark</title>
-      <link>http://localhost:1313/tags/pyspark/</link>
+      <link>https://degangwang.com/tags/pyspark/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/pyspark/</guid>
+      <guid>https://degangwang.com/tags/pyspark/</guid>
       <description></description>
     </item>
     <item>
       <title>RWD</title>
-      <link>http://localhost:1313/tags/rwd/</link>
+      <link>https://degangwang.com/tags/rwd/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/rwd/</guid>
+      <guid>https://degangwang.com/tags/rwd/</guid>
       <description></description>
     </item>
     <item>
       <title>Epidemiology</title>
-      <link>http://localhost:1313/tags/epidemiology/</link>
+      <link>https://degangwang.com/tags/epidemiology/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/epidemiology/</guid>
+      <guid>https://degangwang.com/tags/epidemiology/</guid>
       <description></description>
     </item>
     <item>
       <title>Reproducibility</title>
-      <link>http://localhost:1313/tags/reproducibility/</link>
+      <link>https://degangwang.com/tags/reproducibility/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/reproducibility/</guid>
+      <guid>https://degangwang.com/tags/reproducibility/</guid>
       <description></description>
     </item>
     <item>
       <title>RWE</title>
-      <link>http://localhost:1313/tags/rwe/</link>
+      <link>https://degangwang.com/tags/rwe/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/rwe/</guid>
+      <guid>https://degangwang.com/tags/rwe/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>https://degangwang.com/tags/travel/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>https://degangwang.com/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>KaTeX</title>
-      <link>http://localhost:1313/tags/katex/</link>
+      <link>https://degangwang.com/tags/katex/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/katex/</guid>
+      <guid>https://degangwang.com/tags/katex/</guid>
       <description></description>
     </item>
     <item>
       <title>Math</title>
-      <link>http://localhost:1313/tags/math/</link>
+      <link>https://degangwang.com/tags/math/</link>
       <pubDate>Sun, 06 Jul 2025 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/tags/math/</guid>
+      <guid>https://degangwang.com/tags/math/</guid>
       <description></description>
     </item>
   </channel>

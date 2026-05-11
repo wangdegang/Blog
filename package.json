@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "personal website",
+  "homepage": "https://github.com/wangdegang/Blog#readme",
+  "bugs": {
+    "url": "https://github.com/wangdegang/Blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangdegang/Blog.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
+  },
+  "dependencies": {
+    "atomic-algolia": "^0.3.19"
+  }
+}

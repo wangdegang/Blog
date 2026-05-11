@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Degang Wang</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://degangwang.com/categories/</link>
     <description>Recent content in Categories on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://degangwang.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RWD</title>
-      <link>http://localhost:1313/categories/rwd/</link>
+      <link>https://degangwang.com/categories/rwd/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/rwd/</guid>
+      <guid>https://degangwang.com/categories/rwd/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/categories/tech/</link>
+      <link>https://degangwang.com/categories/tech/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/tech/</guid>
+      <guid>https://degangwang.com/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Methods</title>
-      <link>http://localhost:1313/categories/methods/</link>
+      <link>https://degangwang.com/categories/methods/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/methods/</guid>
+      <guid>https://degangwang.com/categories/methods/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
-      <link>http://localhost:1313/categories/life/</link>
+      <link>https://degangwang.com/categories/life/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/categories/life/</guid>
+      <guid>https://degangwang.com/categories/life/</guid>
       <description></description>
     </item>
   </channel>

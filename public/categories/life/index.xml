@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life on Degang Wang</title>
-    <link>http://localhost:1313/categories/life/</link>
+    <link>https://degangwang.com/categories/life/</link>
     <description>Recent content in Life on Degang Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 May 2026 00:00:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://degangwang.com/categories/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life Stories — Coming Soon</title>
-      <link>http://localhost:1313/2026/05/08/life-coming-soon/</link>
+      <link>https://degangwang.com/2026/05/08/life-coming-soon/</link>
       <pubDate>Fri, 08 May 2026 00:00:00 -0500</pubDate>
-      <guid>http://localhost:1313/2026/05/08/life-coming-soon/</guid>
+      <guid>https://degangwang.com/2026/05/08/life-coming-soon/</guid>
       <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

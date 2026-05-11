@@ -9,5 +9,6 @@ TZ = "America/Chicago"
 publish = "public"
 command = """\
   git config core.quotepath false && \
-  hugo build --gc --minify --baseURL "${URL}"
+  hugo build --gc --minify --baseURL "${URL}" && \
+  npm run algolia
   """

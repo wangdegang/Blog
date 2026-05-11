@@ -2,81 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://degangwang.com/categories/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/databricks/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/ehr/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/2026/05/10/databricks-rwd-workflow/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/2026/05/08/mgb-ehr-data/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/post/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/pyspark/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/categories/rwd/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/rwd/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/categories/tech/</loc>
+    <lastmod>2026-05-10T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/epidemiology/</loc>
+    <lastmod>2026-05-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/categories/methods/</loc>
+    <lastmod>2026-05-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/reproducibility/</loc>
+    <lastmod>2026-05-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/2026/05/08/rwe-reproducibility/</loc>
+    <lastmod>2026-05-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/tags/rwe/</loc>
+    <lastmod>2026-05-09T00:00:00-05:00</lastmod>
+  </url><url>
+    <loc>https://degangwang.com/2026/05/08/databricks-connect/</loc>
     <lastmod>2026-05-08T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/databricks/</loc>
+    <loc>https://degangwang.com/categories/life/</loc>
     <lastmod>2026-05-08T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/2026/05/08/databricks-connect/</loc>
+    <loc>https://degangwang.com/2026/05/08/life-coming-soon/</loc>
     <lastmod>2026-05-08T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://degangwang.com/tags/travel/</loc>
     <lastmod>2026-05-08T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ehr/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/epidemiology/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2026/05/08/life-coming-soon/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2026/05/08/mgb-ehr-data/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/methods/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pyspark/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reproducibility/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2026/05/08/rwe-reproducibility/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/rwd/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rwd/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rwe/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/travel/</loc>
-    <lastmod>2026-05-08T00:00:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/2025/07/06/mathematical-formulae/</loc>
+    <loc>https://degangwang.com/2025/07/06/mathematical-formulae/</loc>
     <lastmod>2025-07-06T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/katex/</loc>
+    <loc>https://degangwang.com/tags/katex/</loc>
     <lastmod>2025-07-06T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/math/</loc>
+    <loc>https://degangwang.com/tags/math/</loc>
     <lastmod>2025-07-06T00:00:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://degangwang.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/placeholder/</loc>
+    <loc>https://degangwang.com/search/placeholder/</loc>
   </url><url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>https://degangwang.com/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://degangwang.com/search/</loc>
   </url>
 </urlset>
